@@ -1,0 +1,10 @@
+ Volume in drive C is Win10_21H2.13.0
+ Volume Serial Number is 2A41-0068
+
+ Directory of C:\Users\mr49481\Desktop\MyGitPrjTest
+
+10/15/2022  02:53 PM    <DIR>          .
+10/15/2022  02:53 PM    <DIR>          ..
+10/15/2022  02:53 PM                 0 teat1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  180,920,619,008 bytes free
